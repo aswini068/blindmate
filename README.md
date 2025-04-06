@@ -69,7 +69,7 @@ pip install -r requirements.txt
 If `requirements.txt` is not available, install manually:
 
 ```bash
-pip install kivy requests SpeechRecognition google-generativeai pygame elevenlabs plyer
+pip install kivy SpeechRecognition pygame requests google-generativeai elevenlabs plyer pyaudio
 ```
 
 ---
