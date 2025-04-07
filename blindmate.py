@@ -15,11 +15,11 @@ from elevenlabs import ElevenLabs
 from plyer import bluetooth
 
 # API Keys
-genai.configure(api_key="AIzaSyDO7EKTLsNmC6w4mLcwnFz-grQnqtXBQnk")
-client = ElevenLabs(api_key="sk_ba2f699895857fcb40c77b148fa4d1535fd6f5fbb7934795")
-GOOGLE_MAPS_API_KEY = "AIzaSyDk0sp3JmQYPOluVLgPjb5RgDiX5eimP4U"
+genai.configure(api_key="AI******")
+client = ElevenLabs(api_key="sk*****")
+GOOGLE_MAPS_API_KEY = "AI******"
 
-VOICE_ID_ENGLISH = "EXAVITQu4vr4xnSDxMaL"
+VOICE_ID_ENGLISH = "EX*****"
 MOCK_LAT, MOCK_LON = 12.9513, 80.1406  # Chromepet GPS coords
 
 
